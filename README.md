@@ -86,5 +86,7 @@ This project is licensed under the MIT License. You are free to use, modify, and
 🤝 Acknowledgments
 Special thanks to **[Data with Baraa](https://www.youtube.com/@DataWithBaraa)** for providing the project framework, datasets, and guidance that inspired this modern data warehouse implementation.
 
-[![LinkedIn](https://shields.io)](https://linkedin.com)
+ Linkden Profile
+ [![LinkedIn](https://shields.io)](https://linkedin.com)
+
 
